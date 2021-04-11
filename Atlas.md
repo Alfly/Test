@@ -27,7 +27,8 @@ In the 2015 DARPA competition of robotics, Atlas was able to complete all eight 
 **Atlas was unveiled to the public on July 11, 2013.** The New York Times said that its debut was *"a striking example of how computers are beginning to grow legs and move around in the physical world"*, describing the robot as *"a giant – though shaky – step toward the long-anticipated age of humanoid robots."* Gary Bradski, a specialist in artificial intelligence, declared that *"a new species, Robo sapiens, are emerging"*.
 
 ## Reference
-[Atlas (robot) wikipedia]([http://](https://en.wikipedia.org/wiki/Atlas_(robot)))
+
+[Atlas (robot) wikipedia](https://en.wikipedia.org/wiki/Atlas_(robot))
 
 [My Readme](./Readme.md)
 
